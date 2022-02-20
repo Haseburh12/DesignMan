@@ -1,2 +1,0 @@
-# DesignMan
-Professional WordPress Designs  
