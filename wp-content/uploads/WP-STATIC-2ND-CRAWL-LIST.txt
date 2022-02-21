@@ -1,0 +1,14 @@
+/2022/02/20/hello-world/feed/
+/comments/feed/
+/feed/
+/sample-page/feed/
+/wp-admin/
+/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+/wp-content/themes/twentytwentytwo/assets/images/flight-path-on-transparent-d.png
+/wp-content/themes/twentytwentytwo/style.css
+/wp-includes/blocks/navigation/style.min.css
+/wp-includes/blocks/navigation/view.min.js
+/wp-json/
+/wp-json/oembed/1.0/embed
+/wp-json/wp/v2/pages/2
+/wp-json/wp/v2/posts/1
